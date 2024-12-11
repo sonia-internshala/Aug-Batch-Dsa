@@ -1,0 +1,13 @@
+Count Digits
+Write a recursive function to count the number of digits in a given number.
+
+Check Sorted Array
+Write a recursive function to check if an array is sorted in ascending order.
+
+Count Occurrences of a Character
+Write a recursive function to count the occurrences of a specific character in a string.
+
+Generate All Subsequences of a String
+Write a recursive function to generate all possible subsequences of a given string.
+
+
